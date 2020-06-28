@@ -1,0 +1,152 @@
+.header {
+	overflow: hidden;
+	background-color: black;
+}
+.logo{
+	float: left;
+}
+.logo img{
+	width: 100%;
+	padding: 10px;
+	padding-top:20px; 
+
+}
+/* menu start */
+ .menu{
+	width:50%;
+	padding:10px;
+	float: right;
+}
+ul {
+
+ background-color:black;
+  list-style-type: none;
+  margin:0;
+  padding:0 ;
+  overflow: hidden;
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  transition: 2s;
+}
+
+li a:hover {
+ 
+  color: yellow; 
+} 
+/* menu end */
+/* baners star */t
+.baner{}
+.banar img{
+	width: 100%;
+
+}
+/* end */
+/* service start */
+.service{}
+.service{
+	padding-top: 30px;
+	padding-bottom: 50px;
+	overflow: hidden;
+}
+.service h1{
+	color: blue;
+	font-size: 30px;
+	text-align: center;
+	margin: 50px;
+}
+.wrapper{
+	width: 90%;
+	margin:0 auto;
+}
+.service1{
+	width: 33.33%;
+	float: left;
+	
+}
+.service img{
+	display: block; 
+	margin: 0 auto;
+}
+.service h2{
+	color: blue;
+	text-align: center;
+}
+
+.service1 p{
+	 padding: 0 35px 0 35px; 
+	text-align:center;
+}
+/* service end */
+/* icone start */
+.choose_us{
+	padding-top: 30px;
+	padding-bottom: 50px;
+   overflow: hidden;
+   background-color:yellow;
+}
+.choose_us h2{
+	color: blue;
+	text-align: center;
+}
+.choose_us h1{
+	color: blue;
+	margin: 50px;
+	text-align: center;
+}
+
+.choose_content1{
+	margin-top: 80px;
+	overflow: hidden;
+	
+}
+.content1{
+	width: 25%;
+	float: left;
+}
+.c_icone{
+	width: 100px;
+	height: 100px;
+	margin:0 auto;
+	border: 2px solid black;
+	border-radius: 50%;
+}
+.c_icone img{
+
+	padding:25px 0 0 25px;
+}
+.content1 p{
+	padding: 30px;
+	text-align: center;
+} 
+/* icone end */
+
+.footer{
+	background-image:url(../img/images.jpg);
+	overflow:hidden;
+	
+}
+.wrapper{
+
+}
+.footer1{
+   width:33.33%;
+    float:left;
+}
+.footer h3{
+	color: blue;
+}
+.footer p{
+	margin: 0;
+	color:white;
+
+}

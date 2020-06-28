@@ -128,3 +128,25 @@ li a:hover {
 	padding: 30px;
 	text-align: center;
 } 
+/* icone end */
+
+.footer{
+	background-image:url(../img/images.jpg);
+	overflow:hidden;
+	
+}
+.wrapper{
+
+}
+.footer1{
+   width:33.33%;
+    float:left;
+}
+.footer h3{
+	color: blue;
+}
+.footer p{
+	margin: 0;
+	color:white;
+
+}
